@@ -1,1 +1,1 @@
-Script files included but not the entire project; that would be a maneuver for sure
+Source Code included but not the entire project's files; that would be a maneuver for sure
